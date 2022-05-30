@@ -22,6 +22,7 @@ export default function Home() {
       </div>
       <div>
         <p>Using Image component from next.js with a static img import</p>
+        <p>Image will be in better file format such as webp and avif</p>
         <p>
           When we have a local img when it optimizes and builds, its essentially
           going to know what the height and width is because we have access to
