@@ -16,7 +16,7 @@ export default function Home() {
       <div>
         <p>Very basic image source tag, inspect it in network </p>
         <img
-          height="500"
+          height="200"
           src="https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg"
         />
       </div>
